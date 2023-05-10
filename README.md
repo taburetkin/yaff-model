@@ -5,8 +5,8 @@ data manipulation framework
 - Model
 - Collection
 
-## Peer dependecies
-- [yaff-core](https://github.com/taburetkin/yaff-model)
+## Peer dependencies
+- [yaff-core](https://github.com/taburetkin/yaff-core)
 - [yaff-events](https://github.com/taburetkin/yaff-events)
 
 ----------
